@@ -5,7 +5,9 @@
 - 📫 How to reach me:
 
    Email: matei.thoma@gmail.com
-   Discord:mateitoooma1#3598
+   
+   
+   Discord: mateitoooma1#3598
 
 <!---
 DevMatei/DevMatei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
