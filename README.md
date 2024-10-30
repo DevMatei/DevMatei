@@ -10,8 +10,9 @@ I'm a **web developer** and **gaming enthusiast** with a passion for crafting us
 
 ## 🎮 Projects I’m Working On
 - **MineMaster Bot** – A Discord bot with interactive features like tracking, games, and admin tools.
-- **ideaGPT** – A chatbot I built to provide unique ideas and inspiration.
+- **IdeaGPT** – A chatbot I built to provide unique ideas and inspiration.
 - **HypeMC Website** – A multi-page, SEO-optimized site for a Minecraft server network, similar in style to Pika Network.
+- **DesktopGPT** - My first Windows app that integrates chatgpt! (made bcuz only _mac_ users get the oficial app )
 - **And Many other cool things**!
 
 ## 🎯 Current Goals
