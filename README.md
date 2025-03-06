@@ -2,6 +2,10 @@
 
 I'm a **web developer** and **gaming enthusiast** with a passion for crafting user-friendly websites and creative coding projects. Currently, I’m working on developing skills in both front-end and back-end, though I lean towards the frontend side. Here’s a little about me:
 
+<a href="https://justdeveloper.is-a.dev/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevMatei&show_icons=true&theme=transparent&include_all_commits=true&ring_color=6e3bf3&title_color=6e3bf3&text_color=ffffff&icon_color=6e3bf3&hide_border=true" />
+</a>
+
 ## 👨‍💻 Skills & Tools
 - **Languages**: HTML, CSS, JavaScript, Python, Node.js, PHP, and a bit of MySQL.
 - **Libraries & Frameworks**: jQuery, Bootstrap, Express, and React.
