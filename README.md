@@ -5,9 +5,8 @@ I'm a **web developer** and **gaming enthusiast** with a passion for crafting us
 <a href="https://devmatei.is-a.dev/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=devmatei&show_icons=true&theme=transparent&include_all_commits=true&ring_color=6e3bf3&title_color=6e3bf3&text_color=ffffff&icon_color=6e3bf3&hide_border=true"/>
 </a>
-<a href="https://discord.com/users/784443338627612673 ">
-  <img align="center" src="https://lanyard.cnrad.dev/api/784443338627612673"/>
-</a>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/784443338627612673)](https://discord.com/users/784443338627612673)
 
 ## 👨‍💻 Skills & Tools
 - **Languages**: HTML, CSS, JavaScript, Python, Node.js, PHP, and a bit of MySQL.
