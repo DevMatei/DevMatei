@@ -1,35 +1,61 @@
-# 👋 Hi there, I’m Mattew!
+# 👋 Hey, I’m Matei Toma (aka devmatei)
 
-I'm a **web developer** and **gaming enthusiast** with a passion for crafting user-friendly websites and creative coding projects. Currently, I’m working on developing skills in both front-end and back-end, though I lean towards the frontend side. Here’s a little about me:
+I’m a **full-stack developer** (mostly frontend-leaning) with a passion for building fast, clean, and genuinely useful web experiences. I focus on UI/UX, accessibility, and performance—but I’m also deep in backend, dev tools, and automation.
 
-<a href="https://devmatei.is-a.dev/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devmatei&show_icons=true&theme=transparent&include_all_commits=true&ring_color=6e3bf3&title_color=6e3bf3&text_color=ffffff&icon_color=6e3bf3&hide_border=true"/>
-</a>
+My vibe? Build cool shit, document the process, keep it open-source, and help other devs along the way.
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/784443338627612673?showDisplayName=true&theme=dark)](https://discord.com/users/784443338627612673)
+> 🌍 Explore my digital playground: [devmatei.is-a.dev](https://devmatei.is-a.dev)
 
-## 👨‍💻 Skills & Tools
-- **Languages**: HTML, CSS, JavaScript, Python, Node.js, PHP, and a bit of MySQL.
-- **Libraries & Frameworks**: jQuery, Bootstrap, Express, and React.
-- **Web Dev Tools**: VS Code, Git & GitHub, and APIs.
-- **Game Dev & Fun Stuff**: Minecraft server management (SMP setups, plugins like BlueMap) and Minecraft command wizardry.
+---
 
-## 🎮 Projects I’m Working On
-- **MineMaster Bot** – A Discord bot with interactive features like tracking, games, and admin tools.
-- **IdeaGPT** – A chatbot I built to provide unique ideas and inspiration.
-- **HypeMC Website** – A multi-page, SEO-optimized site for a Minecraft server network, similar in style to Hypixel.
-- **DesktopGPT** - My first Windows app that integrates chatgpt! (made bcuz only _mac_ users get the oficial app )
-- **And Many other cool things**!
+## 🧠 Who I Am
 
-## 🎯 Current Goals
-- Master **back-end development** to create fully-fledged web applications.
-- Work on projects that integrate creative, dynamic, and responsive front-end designs.
-- Continue learning and improving **Python** and **backend skills**.
-- Makeing my projects **open-source**
+* Developer first, designer by obsession, gamer by heart
+* Based in 🇲🇩 Moldova, building for the web since early teen years
+* Fluent in code, memes, and way too much Sabrina Carpenter lore
+* I write about tech, experiments, and life on my blog: [blog.devmatei.is-a.dev](https://blog.devmatei.is-a.dev)
 
-## 📫 Connect With Me
-- **Email**: contact@devmatei.is-a.dev
-- **Discord**: </DevMatei> (add me with: mateitoma)
-  
-**Respectfully, Matei Toma**  
-_Web developer_
+---
+
+## 🛠 Tech & Tools I Use
+
+* **Languages**: HTML, CSS, JS, TypeScript, Python, PHP, Node.js, MySQL
+* **Frontend**: React, Tailwind, Bootstrap, Framer Motion
+* **Backend**: Express, REST APIs, server setups, Electron, Discord.js
+* **Tools**: VS Code, GitHub, Cloudflare, Postman, OpenAI API, DALL·E
+* **Misc**: Minecraft server admin, CLI enjoyer, custom browsers, AI tinker
+
+---
+
+## 🧪 What I Stand For
+
+* **Open-source everything** when possible
+* **Build fast, stay consistent**, ship iteratively
+* Keep the dev experience fun, accessible, and community-centered
+* Translate dev knowledge (literally—like [Romanian docs for is-a.dev](https://github.com/is-a-dev/docs/pull/72))
+* Share the process, not just the product
+
+---
+
+## 🎯 2025 Goals
+
+* Grow in backend & full-stack infrastructure
+* Launch at least one micro-SaaS with actual users
+* Push more content to my blog + X ([@thedevmatei](https://twitter.com/thedevmatei))
+* Make every project feel intentional, not just “done”
+
+---
+
+## 📬 Contact Me
+
+* **Email**: [contact@devmatei.is-a.dev](mailto:contact@devmatei.is-a.dev)
+* **Discord**: [`</DevMatei>`](https://discord.com/users/784443338627612673)
+* **Twitter/X**: [@thedevmatei](https://twitter.com/thedevmatei)
+* **Website**: [devmatei.is-a.dev](https://devmatei.is-a.dev)
+
+---
+
+Made with clean code, ✨passion✨, and some chaotic good energy.
+Respectfully,
+**Matei Toma**
+*Frontend-fluent. Backend-curious. Always building.*
