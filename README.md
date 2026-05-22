@@ -1,42 +1,39 @@
-# 👋 Hey, I’m Matei Toma (aka devmatei)
+# Hi, I'm DevMatei:
 
-I’m a **full-stack developer** (mostly frontend-leaning) with a passion for building fast, clean, and genuinely useful web experiences. I focus on UI/UX, accessibility, and performance—but I’m also deep in backend, dev tools, and automation.
+full-stack dev, mostly frontend. I build web stuff that actually works and doesn't look terrible.
 
-> 🌍 Explore my digital playground: [devmatei.com](https://devmatei.com)
-
----
-
-## 🧠 Who I Am
-
-* Developer and funny guy
-* Based in 🇲🇩 Moldova, building for the web since early teen years
-* I have my own homelab and i use arch btw :)
+→ [devmatei.com](https://devmatei.com)
 
 ---
 
-## 🛠 Tech & Tools I Use
+## what i work with
 
-* **Languages**: HTML, CSS, JS, TypeScript, Python, PHP, Node.js, MySQL
-* **Frontend**: React, Tailwind, Bootstrap, Framer Motion
-* **Backend**: Express, REST APIs, server setups, Electron, Discord.js
-* **Tools**: VS Code, GitHub, Cloudflare, Postman, OpenAI API, DALL·E
-* **Misc**: Minecraft server admin, CLI enjoyer, custom browsers, AI tinker
-* 
----
-
-## 🎯 2025 Goals
-
-* Grow in backend & full-stack infrastructure
-* Launch at least one micro-SaaS with actual users
-* Push more content to my blog + X ([@thedevmatei](https://twitter.com/thedevmatei))
-* Make every project feel intentional, not just “done”
+**languages** - html, css, js, typescript, python, php, node.js, mysql  
+**frontend** - react, tailwind, framer motion, shadn/cn  
+**backend** - express, rest apis, supabase  
+**other** - cloudflare, docker, homelab on debian, discord bots (python)
 
 ---
 
-## 📬 Contact Me
+## stuff i've built
 
-* **Email**: [hello@devmatei.com](mailto:hello@devmatei.com)
-* **Discord**: [`<DevMatei />`](https://discord.com/users/784443338627612673)
-* **Twitter/X**: [@thedevmatei](https://twitter.com/thedevmatei)
-* **Website**: [devmatei.com](https://devmatei.is-a.com)
+- **[buildhunt.dev](https://buildhunt.dev)** - community platform where devs post problems and build solutions (biggest flop i've had)
+- **[make-a-wrapped](https://wrapped.devmatei.com)** - spotify wrapped-style stats, uses last.fm/listenbrainz/navidrome as source
+- more insignificant stuff :p 
 
+---
+
+## 2026 goals
+
+- get better at backend + infra
+- keep building things people actually use
+- continue improving my homelab
+- blog more at [blog.devmatei.com](https://blog.devmatei.com)
+
+---
+
+## contact
+
+**email** — hello@devmatei.com  
+**discord** — `devmatei`  
+**x** — [@thedevmatei](https://x.com/thedevmatei)
