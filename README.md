@@ -10,7 +10,7 @@ full-stack dev, mostly frontend. I build web stuff that actually works and doesn
 **other** - cloudflare, docker, homelab on debian, discord bots (python)
 
 ## stuff i've built
-- **[buildhunt.dev](https://buildhunt.dev)** - community platform where devs post problems and build solutions (biggest flop i've had)
+- **[stresix](https://stresix.com)** - load testing service which tests your app (duh) then shows you stats and reccomands what hardware to get so you can support as many users as possible 
 - **[make-a-wrapped](https://wrapped.devmatei.com)** - spotify wrapped-style stats, uses last.fm/listenbrainz/navidrome as source
 - more insignificant stuff :p
 
